@@ -1,0 +1,12 @@
+{
+  "users": [
+    
+    {
+      "username": "bao1512005@gmail.com",
+      "email": "test@gmail.com",
+      "password": "$2a$10$B2mNOei1ySiv76EZj0AZlOV8TjNfR5.PInmLW4pQSOF0NoY.61AgK",
+      "confirmpassword": "12",
+      "id": 2
+    }
+  ]
+}
